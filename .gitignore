@@ -1,2 +1,20 @@
+# .gitignore
+__pycache__/
+*.pytest_cache
+
+# Ignore Python compiled files
 *.pyc
+
+# Ignore CSV data files
 *.csv
+
+# Ignore housing.tgz in data
+*housing.tgz
+
+# Ignore HousePricePrediction.egg-info
+*HousePricePrediction.egg-info/
+
+# Ignore dist
+*dist/
+
+*pickles/
