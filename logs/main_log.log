@@ -1,0 +1,7 @@
+2023-11-21 12:03:27,284 - INFO - Ingest data workflow completed.
+2023-11-21 12:03:59,662 - INFO - Decision Tree Model Trained
+2023-11-21 12:03:59,740 - INFO - Linear Regression Model Trained
+2023-11-21 12:14:42,976 - INFO - Random Forest Model 1 trained
+2023-11-21 12:17:37,656 - INFO - Random Forest Model 2 trained
+2023-11-21 12:17:37,657 - INFO - Training models workflow completed.
+2023-11-21 12:19:38,756 - INFO - Scoring models workflow completed.
