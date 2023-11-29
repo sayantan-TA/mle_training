@@ -3,6 +3,7 @@ import logging
 import os
 import tarfile
 import urllib.request
+from typing import Tuple
 
 import numpy as np
 import pandas as pd
@@ -61,7 +62,7 @@ def load_housing_data(housing_path: str = HOUSING_PATH) -> pd.DataFrame:
 
 def stratified_split(
     data: pd.DataFrame, test_size: float = 0.2, random_state: int = 42
-) -> tuple[pd.DataFrame, pd.DataFrame]:
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
     """
     Stratified split of the dataset based on median income.
 
