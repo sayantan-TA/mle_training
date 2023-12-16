@@ -1,0 +1,15 @@
+artifact_uri: /home/sayantanchakrab/mle_training/mlflow/mlruns/0/706a6e23f12742e89269377a9c6480f2/artifacts
+end_time: 1702752552558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 706a6e23f12742e89269377a9c6480f2
+run_name: wistful-shrike-762
+run_uuid: 706a6e23f12742e89269377a9c6480f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702752328069
+status: 4
+tags: []
+user_id: sayantanchakrab

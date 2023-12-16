@@ -1,0 +1,15 @@
+artifact_uri: /home/sayantanchakrab/mle_training/mlflow/mlruns/0/6e95113ff3e444dabbcc043e734839ce/artifacts
+end_time: 1702752896199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e95113ff3e444dabbcc043e734839ce
+run_name: illustrious-asp-800
+run_uuid: 6e95113ff3e444dabbcc043e734839ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702752839656
+status: 3
+tags: []
+user_id: sayantanchakrab
