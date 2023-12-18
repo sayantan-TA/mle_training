@@ -1,0 +1,15 @@
+artifact_uri: /home/sayantanchakrab/mle_training/mlflow/mlruns/0/c2d208fc9bdd460584770ccad447c636/artifacts
+end_time: 1702752902051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2d208fc9bdd460584770ccad447c636
+run_name: House_Price_Prediction_Workflow
+run_uuid: c2d208fc9bdd460584770ccad447c636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702752631555
+status: 3
+tags: []
+user_id: sayantanchakrab

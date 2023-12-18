@@ -1,0 +1,15 @@
+artifact_uri: /home/sayantanchakrab/mle_training/mlflow/mlruns/0/fdecb50acc2e40219bc7bc1a5a6aa44f/artifacts
+end_time: 1702752326779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdecb50acc2e40219bc7bc1a5a6aa44f
+run_name: Data_Preparation
+run_uuid: fdecb50acc2e40219bc7bc1a5a6aa44f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702752323671
+status: 3
+tags: []
+user_id: sayantanchakrab

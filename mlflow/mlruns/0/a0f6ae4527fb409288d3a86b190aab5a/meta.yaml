@@ -1,0 +1,15 @@
+artifact_uri: /home/sayantanchakrab/mle_training/mlflow/mlruns/0/a0f6ae4527fb409288d3a86b190aab5a/artifacts
+end_time: 1702752552559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0f6ae4527fb409288d3a86b190aab5a
+run_name: sedate-dog-148
+run_uuid: a0f6ae4527fb409288d3a86b190aab5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702752328063
+status: 4
+tags: []
+user_id: sayantanchakrab

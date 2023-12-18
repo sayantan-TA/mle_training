@@ -1,0 +1,15 @@
+artifact_uri: /home/sayantanchakrab/mle_training/mlflow/mlruns/0/bb437081e1fa46e984e61b646a4b9550/artifacts
+end_time: 1702752554234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb437081e1fa46e984e61b646a4b9550
+run_name: mercurial-panda-87
+run_uuid: bb437081e1fa46e984e61b646a4b9550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702752554228
+status: 4
+tags: []
+user_id: sayantanchakrab

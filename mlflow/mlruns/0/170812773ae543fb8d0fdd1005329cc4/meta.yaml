@@ -1,0 +1,15 @@
+artifact_uri: /home/sayantanchakrab/mle_training/mlflow/mlruns/0/170812773ae543fb8d0fdd1005329cc4/artifacts
+end_time: 1702752634063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 170812773ae543fb8d0fdd1005329cc4
+run_name: bold-worm-792
+run_uuid: 170812773ae543fb8d0fdd1005329cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702752632884
+status: 3
+tags: []
+user_id: sayantanchakrab

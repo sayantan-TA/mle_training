@@ -1,0 +1,15 @@
+artifact_uri: /home/sayantanchakrab/mle_training/mlflow/mlruns/0/3c607085f9234fc8af5015f2c28b7119/artifacts
+end_time: 1702752839321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c607085f9234fc8af5015f2c28b7119
+run_name: auspicious-smelt-520
+run_uuid: 3c607085f9234fc8af5015f2c28b7119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702752635685
+status: 3
+tags: []
+user_id: sayantanchakrab
