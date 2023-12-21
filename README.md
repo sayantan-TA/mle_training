@@ -30,3 +30,9 @@
 ## Import Package
 - import HousePricePrediction.<module_name> as hp
 
+## Command to create python distribution
+- conda install build
+- pip install build
+- python -m build
+- pip install HousePricePrediction-0.0.1con.tar.gz > installation_log.txt 2>&1
+

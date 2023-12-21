@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "HousePricePrediction"
+version = "0.0.1"
+authors = [
+  { name="Sayantan", email="sayantanchakrab@tigeranalytics.com" },
+]
+description = "Assingment 4.1"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/sayantan-TA/mle_training"
+Issues = "https://github.com/sayantan-TA/mle_training/issues"

@@ -14,8 +14,7 @@ __pycache__/
 # Ignore HousePricePrediction.egg-info
 *HousePricePrediction.egg-info/
 
-# Ignore dist
-*dist/
 
+*mlruns/
 *pickles/
 *.pkl
