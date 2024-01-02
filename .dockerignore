@@ -1,0 +1,23 @@
+__pycache__/
+*.pytest_cache
+
+# Ignore Python compiled files
+*.pyc
+
+# Ignore HousePricePrediction.egg-info
+*HousePricePrediction.egg-info/
+
+# Ignore dist
+*dist/
+
+# Ignore pickle files
+*.pkl
+
+# Ignore zip files
+*.zip
+
+# Ignore build
+build/
+
+# Ignore sphinx docs
+docs/

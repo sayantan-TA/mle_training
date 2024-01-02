@@ -36,3 +36,7 @@
 - python -m build
 - pip install HousePricePrediction-0.0.1con.tar.gz > installation_log.txt 2>&1
 
+## Command to install Docker
+- docker pull sayantanchakrab/mle_training:v1
+- docker run -it -p 5000:5000 sayantanchakrab/mle_training:v1
+
